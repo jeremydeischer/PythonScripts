@@ -5,7 +5,7 @@
 #   NAD 83 State Plane Colorado Central, import shapefiles from a folder containing geometries
 #   exported from a SWIMM model, add the required fields to JOIN to the existing and future
 #   discharge CSVs, allow the user to fill in project specific fields, and delete autopopulated
-#   fields created by the SWIMM export
+#   fields created by the SWIMM export ssf
 
 # Inputs:
     # Output location: location where geodatabase will be created
